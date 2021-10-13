@@ -30,7 +30,7 @@ using namespace std;
 #define PI 3.141592653589793238462643
 const ll hell = 1000000007;
 const ll mod = 1000000007;
-//Hello_Dude---------------------
+//--------------------Hello_Dude---------------------
 void solve()
 {
     int n;
