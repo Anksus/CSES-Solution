@@ -1,5 +1,6 @@
 
 #include <bits/stdc++.h>
+// #include<iostream>
 using namespace std;
 
 #define int long long
@@ -19,7 +20,8 @@ using namespace std;
 #define F first
 #define S second
 #define sz(x) (int)x.size()
-#define endl '\n'
+#define   endl '\n'
+// lol
 #define rep(i, a, b) for (int i = a; i < b; i++)
 #define mem(a, x) memset(a, x, sizeof(a));
 #define IOS                           \
